@@ -1,5 +1,4 @@
-
-<div align="center">:hamster:HI! I'm a growing developer. I'm interested in the back-end skills.</div>
+<div align="center">:hamster:HI! I'm a growing developer. I'm interested in back-end skills.</div>
 <div align="center">
 <h3>:sparkles:Tech Stack<h3>
   
