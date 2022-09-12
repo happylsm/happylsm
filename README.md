@@ -1,16 +1,30 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFC023&height=200&section=header&text=Hello%20World!&fontSize=70)
 
-<!--
-**happylsm/happylsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">:hamster:HI! I'm a growing developer. I'm interested in the backend.</div>
+<div align="center">
+<h3>:sparkles:Tech Stack<h3>
+  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">   
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Apache%20CouchDB-E42528?style=for-the-badge&logo=Apache%20CouchDB&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<h3>:sparkles:Studying<h3>
+   <img src="https://img.shields.io/badge/jpa-007396?style=for-the-badge&logo=java&logoColor=white">
+   <img src="https://img.shields.io/badge/Junit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
+   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white">
+   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
+   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white">
+   
+<h3>:sparkles:Contact me<h3>
+  <a href="https://happylsm76.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-64BC4B?style=plastic&logo=Blogger&logoColor=white"/></a>
+  <a href="mailto:﻿"happylsm76@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
+  
+</div>
