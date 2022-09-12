@@ -28,3 +28,5 @@
   <a href="mailto:﻿"happylsm76@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=square&logo=Gmail&logoColor=white"/></a>
   
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=FFC023&section=footer)
