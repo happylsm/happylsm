@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFC023&height=200&section=header&text=Hello%20World!&fontSize=70)
 
-<div align="center">:hamster:HI! I'm a growing developer. I'm interested in the backend.</div>
+<div align="center">:hamster:HI! I'm a growing developer. I'm interested in the back-end skills.</div>
 <div align="center">
 <h3>:sparkles:Tech Stack<h3>
   
